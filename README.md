@@ -66,7 +66,7 @@
 | **`TUNNEL_TOKEN`**| *从 Cloudflare 复制出来的长 Token* | 🔐 连接 Cloudflare 隧道的唯一通行凭证 |
 | **`PORT`** | `8080` | 🔌 容器内部通信与平台健康检查对齐端口 |
 
-# [uuid生成器](https://99688988.xyz/uuid-generator)
+# [uuid生成器：点击生成](https://99688988.xyz/uuid-generator)
 
 5. 机型规格选择 **`Nano (免费型：0.1 vCPU, 512MB RAM)`**，点击底部的 **`Deploy`**。
 
